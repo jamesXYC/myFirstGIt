@@ -16,4 +16,4 @@
 a|b|c
 
 
-console.log('a')
+-[ ] cook
