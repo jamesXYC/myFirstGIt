@@ -1,13 +1,13 @@
 # myFirstGIt
 
 
-##Project title
+## Project title
 
-##A project description
+## A project description
 
-##install instructions
+## install instructions
 
-##run instructions
+## run instructions
 
 1|2|3
 :----|:-----:|-----:
