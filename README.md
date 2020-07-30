@@ -1,4 +1,4 @@
-# myFirstGIt
+# myFirstGit
 
 
 ## Project title
